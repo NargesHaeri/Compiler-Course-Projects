@@ -1,0 +1,3 @@
+Line 7: Name of variable boolToString conflicts with the function?s name
+Line 8: Redefinition of variable input
+Line 18: Redefinition of method boolToString

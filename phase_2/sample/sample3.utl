@@ -1,0 +1,25 @@
+bool isdOdd(int num) {
+    int x = 1;
+    return num % 2 == 1;
+}
+bool isOdd;
+string boolToString(bool input) {
+string boolToString;
+    int input;
+
+    if (input == false) {
+        return "false";
+    }
+    else {
+        return "true";
+    }
+}
+
+string boolToString() {
+    return "false";
+}
+
+void Main() {
+    Connect("username", "password");
+    Print(boolToString(isOdd(5)));
+}
