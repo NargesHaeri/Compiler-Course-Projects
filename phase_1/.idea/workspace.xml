@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="454728bc-8940-445f-9e68-055e185dc07b" name="Changes" comment="function added" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/CA1-G" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CA1-G" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/sample/sample1.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sample/sample1.utl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sample/sample2.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sample/sample2.utl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sample/sample3.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sample/sample3.utl" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/grammar/UTL.g4" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2IPfC9PE75YKpfuLQO7vVKG0A6Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Uni/Uni5/Compiler/CA/New folder/sample/sample4.utl&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.30114943&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;E:/University/Term_5/Compiler/CA1/Codes/sample/sample1-ans.txt&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Programming\Java\Sample\.idea\runConfigurations" />
+      <recent name="E:\Programming\Java\UTL\sample" />
+      <recent name="E:\Programming\Java\UTTL\src\main\ast\type\arrayType" />
+      <recent name="D:\University\TA_Lessons\Compiler-1401-fall\CA1\src" />
+      <recent name="D:\University\TA_Lessons\Compiler-1401-fall\CA1\CA1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main.ast.node.statement" />
+      <recent name="main.ast.node.directive" />
+      <recent name="main.ast.type.complexType" />
+      <recent name="main.ast.type.primitiveType" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.sample2">
+    <configuration name="sample3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.UTL" />
+      <module name="CA1" />
+      <option name="PROGRAM_PARAMETERS" value="sample/sample3.utl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sample4" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="main.UTL" />
+      <module name="CA1" />
+      <option name="PROGRAM_PARAMETERS" value="sample/sample4.utl" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.sample1" />
+      <item itemvalue="Application.sample2" />
+      <item itemvalue="Application.sample4" />
+      <item itemvalue="Application.sample3" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="454728bc-8940-445f-9e68-055e185dc07b" name="Changes" comment="" />
+      <created>1670088011187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670088011187</updated>
+      <workItem from="1671528904076" duration="7211000" />
+      <workItem from="1671557178469" duration="4901000" />
+      <workItem from="1671614327527" duration="12335000" />
+      <workItem from="1671800590932" duration="9231000" />
+      <workItem from="1671816227031" duration="845000" />
+      <workItem from="1671881035076" duration="734000" />
+      <workItem from="1671881791582" duration="4954000" />
+      <workItem from="1672308767956" duration="17000" />
+      <workItem from="1674930632753" duration="739000" />
+      <workItem from="1674932675206" duration="1152000" />
+      <workItem from="1674993106155" duration="22000" />
+      <workItem from="1699901545841" duration="4130000" />
+      <workItem from="1699957685165" duration="3495000" />
+      <workItem from="1699961221092" duration="29000" />
+      <workItem from="1699961300240" duration="1016000" />
+      <workItem from="1699973746399" duration="5000" />
+      <workItem from="1699973907064" duration="13000" />
+      <workItem from="1700057534995" duration="10060000" />
+      <workItem from="1700230902166" duration="9797000" />
+      <workItem from="1700244719201" duration="9139000" />
+      <workItem from="1700304666715" duration="8000" />
+      <workItem from="1700316974404" duration="2345000" />
+      <workItem from="1700338069524" duration="6746000" />
+      <workItem from="1700395887113" duration="416000" />
+      <workItem from="1700414628620" duration="2990000" />
+      <workItem from="1700418115574" duration="246000" />
+      <workItem from="1700418438334" duration="45000" />
+      <workItem from="1700418538077" duration="1034000" />
+      <workItem from="1700423928244" duration="3000" />
+      <workItem from="1700486609875" duration="406000" />
+      <workItem from="1700497258893" duration="3359000" />
+      <workItem from="1700640134179" duration="11454000" />
+      <workItem from="1701174759509" duration="18230000" />
+      <workItem from="1701272512040" duration="14356000" />
+      <workItem from="1701293456003" duration="339000" />
+      <workItem from="1701316409496" duration="12751000" />
+      <workItem from="1701348627115" duration="6076000" />
+    </task>
+    <task id="LOCAL-00001" summary="function added">
+      <created>1701200560739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701200560739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="function added" />
+    <option name="LAST_COMMIT_MESSAGE" value="function added" />
+  </component>
+</project>

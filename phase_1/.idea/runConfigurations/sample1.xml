@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sample1" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="openjdk-21" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <output_file path="sample/sample1-out.txt" is_save="true" />
+    <option name="MAIN_CLASS_NAME" value="main.UTL" />
+    <module name="CA1" />
+    <option name="PROGRAM_PARAMETERS" value="sample/sample1.utl" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

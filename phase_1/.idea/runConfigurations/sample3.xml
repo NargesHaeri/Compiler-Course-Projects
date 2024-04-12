@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sample3" type="Application" factoryName="Application">
+    <output_file path="sample/sample3-out.txt" is_save="true" />
+    <option name="MAIN_CLASS_NAME" value="main.UTL" />
+    <module name="CA1" />
+    <option name="PROGRAM_PARAMETERS" value="sample/sample3.utl" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
